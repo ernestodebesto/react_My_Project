@@ -1,0 +1,19 @@
+{
+  "name": "helo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestodebesto/react_My_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestodebesto/react_My_Project/issues"
+  },
+  "homepage": "https://github.com/ernestodebesto/react_My_Project#readme"
+}
